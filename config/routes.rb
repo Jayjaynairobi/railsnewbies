@@ -1,6 +1,7 @@
 Railsgirls::Application.routes.draw do
   get "pages/info"
   get "pages/penis"
+  
   resources :ideas
 
 #get "johannes.html.erb"
